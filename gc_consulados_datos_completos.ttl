@@ -1,0 +1,169 @@
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1043>a vcard:Organization;vcard:formattedName "Consulado de República Dominicana" ; vcard:address [vcard:streetAddress "José María Escuza, 20 -  6º A" ;vcard:postalCode "48013" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2613021" ;
+        vcard:longitude "-2.9455619" ;
+      ] ;vcard:telephone <tel:944276388>;vcard:tel <tel:944348106> ;vcard:email <mailto:info@repdom.es> ;.<tel:944276388> a vcard:Tel, vcard:Pref;rdf:value "944276388" ;.<tel:944348106> a vcard:Fax;rdf:value "944348106" ;.<mailto:info@repdom.es>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1047>a vcard:Organization;vcard:formattedName "Consulado de Suiza" ; vcard:address [vcard:streetAddress "Mazarredo, 15 - Alameda . 5-A" ;vcard:postalCode "48001" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2644831942255" ;
+        vcard:longitude "-2.92933319630175" ;
+      ] ;vcard:telephone <tel:61903658>;vcard:telephone <tel:64782727>;vcard:telephone <tel:946540544>;vcard:tel <tel:946540546> ;vcard:email <mailto:bilbao@honrep.ch> ;vcard:url <http://www.eda.admin.ch/madrid> ;.<tel:61903658> a vcard:Tel, vcard:Pref;rdf:value "61903658" ;.<tel:64782727> a vcard:Tel, vcard:Pref;rdf:value "64782727" ;.<tel:946540544> a vcard:Tel, vcard:Pref;rdf:value "946540544" ;.<tel:946540546> a vcard:Fax;rdf:value "946540546" ;.<mailto:bilbao@honrep.ch>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1035>a vcard:Organization;vcard:formattedName "Consulado de Marruecos" ; vcard:address [vcard:streetAddress "Alameda Recalde, 27 - 6º" ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.264" ;
+        vcard:longitude "-2.944" ;
+      ] ;vcard:telephone <tel:946072176>;vcard:tel <tel:944027129> ;vcard:email <mailto:consremabi@yahoo.es> ;.<tel:946072176> a vcard:Tel, vcard:Pref;rdf:value "946072176" ;.<tel:944027129> a vcard:Fax;rdf:value "944027129" ;.<mailto:consremabi@yahoo.es>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1011>a vcard:Organization;vcard:formattedName "Cuerpo Consular de Bilbao" ; vcard:address [vcard:streetAddress "Alameda Recalde, 50 - 3" ;vcard:postalCode "48008" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2637606" ;
+        vcard:longitude "-2.9269593" ;
+      ] ;vcard:telephone <tel:944706426>;vcard:tel <tel:944706427> ;vcard:email <mailto:cconsularbilbao@hotmail.com> ;.<tel:944706426> a vcard:Tel, vcard:Pref;rdf:value "944706426" ;.<tel:944706427> a vcard:Fax;rdf:value "944706427" ;.<mailto:cconsularbilbao@hotmail.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/2340>a vcard:Organization;vcard:formattedName "Consulado de Lituania" ; vcard:address [vcard:streetAddress "Diputación, 1 - 1º izda" ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2630751984784" ;
+        vcard:longitude "-2.93191859866713" ;
+      ] ;vcard:telephone <tel:902233700>;vcard:tel <tel:902234540> ;vcard:email <mailto:info@conbioltu.org> ;vcard:email <mailto:consul@conbioltu.org> ;.<tel:902233700> a vcard:Tel, vcard:Pref;rdf:value "902233700" ;.<tel:902234540> a vcard:Fax;rdf:value "902234540" ;.<mailto:info@conbioltu.org>a vcard:Email, vcard:Pref;.<mailto:consul@conbioltu.org>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1020>a vcard:Organization;vcard:formattedName "Consulado de Chile" ; vcard:address [vcard:streetAddress "Mazarredo, 15 - 2ºC" ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2641696" ;
+        vcard:longitude "-2.9291124" ;
+      ] ;vcard:telephone <tel:944244534>;vcard:tel <tel:944244440> ;vcard:email <mailto:consuladochilepaisvasco@gmail.com> ;.<tel:944244534> a vcard:Tel, vcard:Pref;rdf:value "944244534" ;.<tel:944244440> a vcard:Fax;rdf:value "944244440" ;.<mailto:consuladochilepaisvasco@gmail.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1014>a vcard:Organization;vcard:formattedName "Consulado de Bélgica" ; vcard:address [vcard:streetAddress "Paulino Mendivil, 8 - 1º" ;vcard:postalCode "48930" ;vcard:locality "Las Arenas - Getxo, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3250959142703" ;
+        vcard:longitude "-3.01517431517024" ;
+      ] ;vcard:telephone <tel:944644840>;vcard:email <mailto:consulbel.bio@telefonica.net> ;.<tel:944644840> a vcard:Tel, vcard:Pref;rdf:value "944644840" ;.<mailto:consulbel.bio@telefonica.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1022>a vcard:Organization;vcard:formattedName "Consulado de Ecuador" ; vcard:address [vcard:streetAddress "Simon Bolivar, 27 - 1º Planta Oficina 34B" ;vcard:postalCode "48013" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2600098" ;
+        vcard:longitude "-2.9319541" ;
+      ] ;vcard:telephone <tel:944241039>;vcard:tel <tel:944241039> ;vcard:email <mailto:consuladodelecuadorenbilbao@gmail.com> ;.<tel:944241039> a vcard:Tel, vcard:Pref;rdf:value "944241039" ;.<tel:944241039> a vcard:Fax;rdf:value "944241039" ;.<mailto:consuladodelecuadorenbilbao@gmail.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1039>a vcard:Organization;vcard:formattedName "Consulado de Países Bajos" ; vcard:address [vcard:streetAddress "Alameda Mazarredo, 9 -  1º" ;vcard:postalCode "48001" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2631035" ;
+        vcard:longitude "-2.9290665" ;
+      ] ;vcard:telephone <tel:944354552>;vcard:tel <tel:944354539> ;vcard:email <mailto:consupbbilbao@hormensa.com> ;.<tel:944354552> a vcard:Tel, vcard:Pref;rdf:value "944354552" ;.<tel:944354539> a vcard:Fax;rdf:value "944354539" ;.<mailto:consupbbilbao@hormensa.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1048>a vcard:Organization;vcard:formattedName "Consulado de Turquía" ; vcard:address [vcard:streetAddress "Gran Vía 65, 5º izda." ;vcard:postalCode "48011" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2640611" ;
+        vcard:longitude "-2.9388228" ;
+      ] ;vcard:telephone <tel:944274724>;vcard:email <mailto:carmenuriarte@yahoo.com> ;.<tel:944274724> a vcard:Tel, vcard:Pref;rdf:value "944274724" ;.<mailto:carmenuriarte@yahoo.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1018>a vcard:Organization;vcard:formattedName "Consulado de Corea del Sur" ; vcard:address [vcard:streetAddress "San Vicente, 8 edificio Albia I -   9º " ;vcard:postalCode "48001" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2637606" ;
+        vcard:longitude "-2.9269593" ;
+      ] ;vcard:telephone <tel:944356400>;vcard:tel <tel:944247071> ;vcard:email <mailto:aranajm@navieramurueta.com> ;.<tel:944356400> a vcard:Tel, vcard:Pref;rdf:value "944356400" ;.<tel:944247071> a vcard:Fax;rdf:value "944247071" ;.<mailto:aranajm@navieramurueta.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1033>a vcard:Organization;vcard:formattedName "Consulado de Italia" ; vcard:address [vcard:streetAddress "Ercilla, 14 -  2º A" ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2642245" ;
+        vcard:longitude "-2.9322968" ;
+      ] ;vcard:telephone <tel:944230772>;vcard:tel <tel:944230772> ;vcard:email <mailto:bilbao.onorario@esteri.it> ;vcard:url <http://www.consmadrid.esteri.it> ;.<tel:944230772> a vcard:Tel, vcard:Pref;rdf:value "944230772" ;.<tel:944230772> a vcard:Fax;rdf:value "944230772" ;.<mailto:bilbao.onorario@esteri.it>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1045>a vcard:Organization;vcard:formattedName "Consulado de Sudáfrica" ; vcard:address [vcard:streetAddress "Las Mercedes, 31 -  4º" ;vcard:postalCode "48930" ;vcard:locality "Getxo, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3275622" ;
+        vcard:longitude "-3.0123234" ;
+      ] ;vcard:telephone <tel:944641124>;vcard:tel <tel:944641124> ;vcard:email <mailto:c.lerchundi@cgac.es> ;.<tel:944641124> a vcard:Tel, vcard:Pref;rdf:value "944641124" ;.<tel:944641124> a vcard:Fax;rdf:value "944641124" ;.<mailto:c.lerchundi@cgac.es>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1010>a vcard:Organization;vcard:formattedName "Consulado de Luxemburgo" ; vcard:address [vcard:streetAddress "Particular de Ormeche, 6 - 4" ;vcard:postalCode "48992" ;vcard:locality "Guecho, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.1443171" ;
+        vcard:longitude "-2.9586392" ;
+      ] ;vcard:telephone <tel:944602072>;vcard:email <mailto:beatriz.a@telefonica.net> ;.<tel:944602072> a vcard:Tel, vcard:Pref;rdf:value "944602072" ;.<mailto:beatriz.a@telefonica.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1034>a vcard:Organization;vcard:formattedName "Consulado de Jordania" ; vcard:address [vcard:streetAddress "General Concha, 19 -  1º " ;vcard:postalCode "48010" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2591661" ;
+        vcard:longitude "-2.9413208" ;
+      ] ;vcard:telephone <tel:944212214>;vcard:tel <tel:944101188> ;vcard:email <mailto:borja.achairiarte@gmail.com> ;.<tel:944212214> a vcard:Tel, vcard:Pref;rdf:value "944212214" ;.<tel:944101188> a vcard:Fax;rdf:value "944101188" ;.<mailto:borja.achairiarte@gmail.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/2341>a vcard:Organization;vcard:formattedName "Consulado de República Checa" ; vcard:address [vcard:streetAddress "Henao, 15 - 1º izda." ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2647154673288" ;
+        vcard:longitude "-2.93277104108905" ;
+      ] ;vcard:telephone <tel:946545545>;vcard:tel <tel:946441009> ;vcard:email <mailto:bilbao@honorary.mzv.cz> ;.<tel:946545545> a vcard:Tel, vcard:Pref;rdf:value "946545545" ;.<tel:946441009> a vcard:Fax;rdf:value "946441009" ;.<mailto:bilbao@honorary.mzv.cz>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1012>a vcard:Organization;vcard:formattedName "Consulado de Alemania" ; vcard:address [vcard:streetAddress "San Vicente, 8 -  Edificio Albia  Planta 13" ;vcard:postalCode "48001" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2637606" ;
+        vcard:longitude "-2.9269593" ;
+      ] ;vcard:telephone <tel:944238585>;vcard:tel <tel:944243976> ;vcard:email <mailto:bilbao@hk-diplo.de> ;vcard:url <http://www.spanien.diplo.de> ;.<tel:944238585> a vcard:Tel, vcard:Pref;rdf:value "944238585" ;.<tel:944243976> a vcard:Fax;rdf:value "944243976" ;.<mailto:bilbao@hk-diplo.de>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1027>a vcard:Organization;vcard:formattedName "Consulado de Gran Bretaña" ; vcard:address [vcard:streetAddress "Alameda Urquijo, 2 -  8º" ;vcard:postalCode "48008" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2614973" ;
+        vcard:longitude "-2.9299219" ;
+      ] ;vcard:telephone <tel:913344766>;vcard:tel <tel:944167632> ;vcard:email <mailto:info.consulate@fco.gov.uk> ;.<tel:913344766> a vcard:Tel, vcard:Pref;rdf:value "913344766" ;.<tel:944167632> a vcard:Fax;rdf:value "944167632" ;.<mailto:info.consulate@fco.gov.uk>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1032>a vcard:Organization;vcard:formattedName "Consulado de Islandia" ; vcard:address [vcard:streetAddress "Las Mercedes, 25 -  Bajo 1 bis" ;vcard:postalCode "48930" ;vcard:locality "Getxo, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3273535" ;
+        vcard:longitude "-3.0113166" ;
+      ] ;vcard:telephone <tel:944315013>;vcard:tel <tel:944315210> ;vcard:email <mailto:icecon.bilbao@telefonica.net> ;.<tel:944315013> a vcard:Tel, vcard:Pref;rdf:value "944315013" ;.<tel:944315210> a vcard:Fax;rdf:value "944315210" ;.<mailto:icecon.bilbao@telefonica.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1040>a vcard:Organization;vcard:formattedName "Consulado de Pakistán" ; vcard:address [vcard:streetAddress "Alameda Recalde, 63 -  1º Dcha." ;vcard:postalCode "48012" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2543346" ;
+        vcard:longitude "-2.9413208" ;
+      ] ;vcard:telephone <tel:944431619>;vcard:tel <tel:944220397> ;vcard:email <mailto:consuladodepakistan@telefonica.net> ;.<tel:944431619> a vcard:Tel, vcard:Pref;rdf:value "944431619" ;.<tel:944220397> a vcard:Fax;rdf:value "944220397" ;.<mailto:consuladodepakistan@telefonica.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1017>a vcard:Organization;vcard:formattedName "Consulado de Colombia" ; vcard:address [vcard:streetAddress "Alameda Urquijo, 2 - 6º" ;vcard:postalCode "48008" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2614973" ;
+        vcard:longitude "-2.9299219" ;
+      ] ;vcard:telephone <tel:944230539>;vcard:tel <tel:944230267> ;vcard:email <mailto:cbilbao@cancilleria.gov.co> ;vcard:url <http://www.ccbilbaocitas.com> ;.<tel:944230539> a vcard:Tel, vcard:Pref;rdf:value "944230539" ;.<tel:944230267> a vcard:Fax;rdf:value "944230267" ;.<mailto:cbilbao@cancilleria.gov.co>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1050>a vcard:Organization;vcard:formattedName "Consulado de Venezuela" ; vcard:address [vcard:streetAddress "Campo Volantín, 24 -  2º - Dptos  3 y  4" ;vcard:postalCode "48007" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.267111424189" ;
+        vcard:longitude "-2.92741375865429" ;
+      ] ;vcard:telephone <tel:944444966>;vcard:tel <tel:944467349> ;vcard:email <mailto:contacto@consulvenbilbao.org> ;vcard:email <mailto:conve.esblb@mre.gob.ve> ;.<tel:944444966> a vcard:Tel, vcard:Pref;rdf:value "944444966" ;.<tel:944467349> a vcard:Fax;rdf:value "944467349" ;.<mailto:contacto@consulvenbilbao.org>a vcard:Email, vcard:Pref;.<mailto:conve.esblb@mre.gob.ve>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1019>a vcard:Organization;vcard:formattedName "Consulado de Costa de Marfil" ; vcard:address [vcard:streetAddress "Máximo Aguirre, 12 - 3º izda." ;vcard:postalCode "48011" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2640916815708" ;
+        vcard:longitude "-2.93759012191743" ;
+      ] ;vcard:telephone <tel:944231145>;vcard:tel <tel:946419822> ;vcard:email <mailto:opantasan@gmail.com> ;.<tel:944231145> a vcard:Tel, vcard:Pref;rdf:value "944231145" ;.<tel:946419822> a vcard:Fax;rdf:value "946419822" ;.<mailto:opantasan@gmail.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1031>a vcard:Organization;vcard:formattedName "Consulado de Irlanda" ; vcard:address [vcard:streetAddress "Madariaga, 1 -  Avda. 2º - dep. 10" ;vcard:postalCode "48014" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2711195294747" ;
+        vcard:longitude "-2.94385461762813" ;
+      ] ;vcard:telephone <tel:944230414>;vcard:tel <tel:944230414> ;vcard:email <mailto:rcaira@icasv-bilbao.com> ;vcard:url <http://www.irlanda.es> ;.<tel:944230414> a vcard:Tel, vcard:Pref;rdf:value "944230414" ;.<tel:944230414> a vcard:Fax;rdf:value "944230414" ;.<mailto:rcaira@icasv-bilbao.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1030>a vcard:Organization;vcard:formattedName "Consulado de Guinea Bissau" ; vcard:address [vcard:streetAddress "General Concha 19 -1º Dcha., " ;vcard:postalCode "48010" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2591661" ;
+        vcard:longitude "-2.9413208" ;
+      ] ;vcard:telephone <tel:944105298>;vcard:tel <tel:944334190> ;vcard:email <mailto:consularguineabilbao@yahoo.es> ;.<tel:944105298> a vcard:Tel, vcard:Pref;rdf:value "944105298" ;.<tel:944334190> a vcard:Fax;rdf:value "944334190" ;.<mailto:consularguineabilbao@yahoo.es>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1029>a vcard:Organization;vcard:formattedName "Consulado de Guatemala" ; vcard:address [vcard:streetAddress "Cristobal de Murrieta, 36 - 6º , Avenida" ;vcard:postalCode "48980" ;vcard:locality "Santurtzi, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3278598042275" ;
+        vcard:longitude "-3.03024160977696" ;
+      ] ;vcard:telephone <tel:944835607>;vcard:email <mailto:amontoya@euskaltel.net> ;.<tel:944835607> a vcard:Tel, vcard:Pref;rdf:value "944835607" ;.<mailto:amontoya@euskaltel.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1044>a vcard:Organization;vcard:formattedName "Consulado de Rumanía" ; vcard:address [vcard:streetAddress "Plaza Circular, 4 -  1º" ;vcard:postalCode "48001" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2614608" ;
+        vcard:longitude "-2.9271078" ;
+      ] ;vcard:telephone <tel:944245177>;vcard:tel <tel:944245405> ;vcard:email <mailto:cgrumaniabilbao@telefonica.net> ;vcard:url <http://bilbao.mae.ro> ;.<tel:944245177> a vcard:Tel, vcard:Pref;rdf:value "944245177" ;.<tel:944245405> a vcard:Fax;rdf:value "944245405" ;.<mailto:cgrumaniabilbao@telefonica.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1021>a vcard:Organization;vcard:formattedName "Consulado de Chipre" ; vcard:address [vcard:streetAddress "Simón Bolivar, 27 -  1º  oficina 4" ;vcard:postalCode "48013" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2605365" ;
+        vcard:longitude "-2.9445817" ;
+      ] ;vcard:telephone <tel:944233102>;vcard:tel <tel:944236897> ;vcard:email <mailto:philios.andreou@bts.com> ;.<tel:944233102> a vcard:Tel, vcard:Pref;rdf:value "944233102" ;.<tel:944236897> a vcard:Fax;rdf:value "944236897" ;.<mailto:philios.andreou@bts.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1026>a vcard:Organization;vcard:formattedName "Consulado de Gabón" ; vcard:address [vcard:streetAddress "Lukieta, 23 - Monte Berreaga - La Bilbaína auzunea" ;vcard:postalCode "48100" ;vcard:locality "Mungia, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3225766374602" ;
+        vcard:longitude "-2.849498609431" ;
+      ] ;vcard:telephone <tel:946746158944603439>;vcard:email <mailto:medranoenrique@telefonica.net> ;.<tel:946746158944603439> a vcard:Tel, vcard:Pref;rdf:value "946746158944603439" ;.<mailto:medranoenrique@telefonica.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1016>a vcard:Organization;vcard:formattedName "Consulado de Brasil" ; vcard:address [vcard:streetAddress "Lehendakari Aguirre, 3 - bajo" ;vcard:postalCode "48014" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2632946" ;
+        vcard:longitude "-2.9261846" ;
+      ] ;vcard:telephone <tel:944474950>;vcard:tel <tel:944761804> ;vcard:email <mailto:consulhonorariobilbao@brasilbcn.org> ;.<tel:944474950> a vcard:Tel, vcard:Pref;rdf:value "944474950" ;.<tel:944761804> a vcard:Fax;rdf:value "944761804" ;.<mailto:consulhonorariobilbao@brasilbcn.org>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1036>a vcard:Organization;vcard:formattedName "Consulado de México" ; vcard:address [vcard:streetAddress "Gran Vía, 40 bis -  5º Dcha." ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2666043" ;
+        vcard:longitude "-2.9338273" ;
+      ] ;vcard:telephone <tel:944238937>;vcard:tel <tel:944238942> ;vcard:email <mailto:consulado@consulmexhonbilbao.net> ;vcard:url <http://www.consulmexhonbilbao.net> ;.<tel:944238937> a vcard:Tel, vcard:Pref;rdf:value "944238937" ;.<tel:944238942> a vcard:Fax;rdf:value "944238942" ;.<mailto:consulado@consulmexhonbilbao.net>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1038>a vcard:Organization;vcard:formattedName "Consulado de Noruega" ; vcard:address [vcard:streetAddress "Gran Vía, 17 -  5º Dpto. 4" ;vcard:postalCode "48001" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2637606" ;
+        vcard:longitude "-2.9269593" ;
+      ] ;vcard:telephone <tel:944151666>;vcard:tel <tel:944792920> ;vcard:email <mailto:consulado.gral.nor.bilbao@vicinaycadenas.com> ;.<tel:944151666> a vcard:Tel, vcard:Pref;rdf:value "944151666" ;.<tel:944792920> a vcard:Fax;rdf:value "944792920" ;.<mailto:consulado.gral.nor.bilbao@vicinaycadenas.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1025>a vcard:Organization;vcard:formattedName "Consulado de Francia" ; vcard:address [vcard:streetAddress "Iparragirre, 26 -  5º" ;vcard:postalCode "48011" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2639621" ;
+        vcard:longitude "-2.9362687" ;
+      ] ;vcard:telephone <tel:944255180>;vcard:tel <tel:944238812> ;vcard:email <mailto:ecrire@consulfrance-bilbao.org> ;vcard:url <http://www.consulfrance-bilbao.org> ;.<tel:944255180> a vcard:Tel, vcard:Pref;rdf:value "944255180" ;.<tel:944238812> a vcard:Fax;rdf:value "944238812" ;.<mailto:ecrire@consulfrance-bilbao.org>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1013>a vcard:Organization;vcard:formattedName "Consulado de Austria" ; vcard:address [vcard:streetAddress "Club, 8" ;vcard:postalCode "48930" ;vcard:locality "Las Arenas, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3280806" ;
+        vcard:longitude "-3.0143854" ;
+      ] ;vcard:telephone <tel:944640763>;vcard:tel <tel:944637432> ;vcard:email <mailto:cons.austria.bilbao@corzac.com> ;.<tel:944640763> a vcard:Tel, vcard:Pref;rdf:value "944640763" ;.<tel:944637432> a vcard:Fax;rdf:value "944637432" ;.<mailto:cons.austria.bilbao@corzac.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1049>a vcard:Organization;vcard:formattedName "Consulado de Uruguay" ; vcard:address [vcard:streetAddress "Federico Moyua, 6 -  2º Dcha.- Plaza de" ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2634884342768" ;
+        vcard:longitude "-2.93508790664857" ;
+      ] ;vcard:telephone <tel:944246474>;vcard:tel <tel:944230814> ;vcard:email <mailto:consuluruguay@monzonabogados.com> ;.<tel:944246474> a vcard:Tel, vcard:Pref;rdf:value "944246474" ;.<tel:944230814> a vcard:Fax;rdf:value "944230814" ;.<mailto:consuluruguay@monzonabogados.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/2338>a vcard:Organization;vcard:formattedName "Consulado de Bolivia" ; vcard:address [vcard:streetAddress "Pintor Losada, 19 - Bajo" ;vcard:postalCode "48004" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2491668456226" ;
+        vcard:longitude "-2.91264171566259" ;
+      ] ;vcard:telephone <tel:944122623>;.<tel:944122623> a vcard:Tel, vcard:Pref;rdf:value "944122623" ;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1042>a vcard:Organization;vcard:formattedName "Consulado de Portugal" ; vcard:address [vcard:streetAddress "Mazarredo, 39 - Alameda - 3ºD" ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2672870376657" ;
+        vcard:longitude "-2.93084134743508" ;
+      ] ;vcard:telephone <tel:944354540>;vcard:tel <tel:944354541> ;.<tel:944354540> a vcard:Tel, vcard:Pref;rdf:value "944354540" ;.<tel:944354541> a vcard:Fax;rdf:value "944354541" ;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/2339>a vcard:Organization;vcard:formattedName "Consulado de Hungría" ; vcard:address [vcard:streetAddress "Iturriondo, 18 - Edificio Metro - Oficina 1º C" ;vcard:postalCode "48940" ;vcard:locality "Leioa, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3188094165148" ;
+        vcard:longitude "-2.98829047936674" ;
+      ] ;vcard:telephone <tel:946522859>;vcard:tel <tel:944804796> ;vcard:email <mailto:chungriabilbao@yahoo.es> ;.<tel:946522859> a vcard:Tel, vcard:Pref;rdf:value "946522859" ;.<tel:944804796> a vcard:Fax;rdf:value "944804796" ;.<mailto:chungriabilbao@yahoo.es>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1024>a vcard:Organization;vcard:formattedName "Consulado de Finlandia" ; vcard:address [vcard:streetAddress "San Vicente, 8 -  Edificio Albia 2  Bajo A" ;vcard:postalCode "48001" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2637606" ;
+        vcard:longitude "-2.9269593" ;
+      ] ;vcard:telephone <tel:944239036>;vcard:tel <tel:944236736> ;vcard:email <mailto:recepcion@jmcandina.com> ;.<tel:944239036> a vcard:Tel, vcard:Pref;rdf:value "944239036" ;.<tel:944236736> a vcard:Fax;rdf:value "944236736" ;.<mailto:recepcion@jmcandina.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1028>a vcard:Organization;vcard:formattedName "Consulado de Grecia" ; vcard:address [vcard:streetAddress "Euskadi, 5 - 8º - Torre Iberdrola - Plaza de" ;vcard:postalCode "48009" ;vcard:locality "Bilbao, Bizkaia" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.2675429254671" ;
+        vcard:longitude "-2.93827521726211" ;
+      ] ;vcard:telephone <tel:944251573>;vcard:tel <tel:944251400> ;vcard:email <mailto:consul.grecia.bilbao@gmail.com> ;.<tel:944251573> a vcard:Tel, vcard:Pref;rdf:value "944251573" ;.<tel:944251400> a vcard:Fax;rdf:value "944251400" ;.<mailto:consul.grecia.bilbao@gmail.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/1051>a vcard:Organization;vcard:formattedName "Consulado de El Salvador" ; vcard:address [vcard:streetAddress "Camino de Mundaiz, 6" ;vcard:postalCode "20009" ;vcard:locality "Donostia San Sebastián, Gipuzkoa" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "43.3147472" ;
+        vcard:longitude "-1.9766994" ;
+      ] ;vcard:telephone <tel:943290151>;vcard:tel <tel:943283888> ;vcard:email <mailto:izalco@ibercom.com> ;.<tel:943290151> a vcard:Tel, vcard:Pref;rdf:value "943290151" ;.<tel:943283888> a vcard:Fax;rdf:value "943283888" ;.<mailto:izalco@ibercom.com>a vcard:Email, vcard:Pref;.@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://www2.irekia.euskadi.net/es/entities/2314>a vcard:Organization;vcard:formattedName "Consulado de Republica Islamica de Mauritania" ; vcard:address [vcard:streetAddress "Tarragona, 8" ;vcard:postalCode "01010" ;vcard:locality "Vitoria-Gasteiz, Araba/Álava" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "42.8688514820848" ;
+        vcard:longitude "-2.6893321870685" ;
+      ] ;vcard:telephone <tel:945181181>;vcard:email <mailto:anabel@granhotelakua.com> ;.<tel:945181181> a vcard:Tel, vcard:Pref;rdf:value "945181181" ;.<mailto:anabel@granhotelakua.com>a vcard:Email, vcard:Pref;.
