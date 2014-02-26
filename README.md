@@ -58,17 +58,17 @@ En otra terminal, subir el dataset a Fuseki:
 
 `./s-put http://localhost:3030/dataset/data odd14 ../suiza.owl`
 
-Pubby y Jetty ya estan configurados (fijarse en `jetty-distribution-9.0.0.M3/webapps/ROOT/WEB-INF/odd14-config-file.ttl`), solo hace falta ejecutar Jetty, que ya contiene Pubby como aplicacion web. Ir a `jetty-distribution-9.0.0.M3/` y ejecutar para que escuche en el puerto 8080:
+Pubby y Jetty ya estan configurados (fijarse en `jetty-distribution-9.0.0.M3/webapps/ROOT/WEB-INF/odd14-config-file.ttl` y `jetty-distribution-9.0.0.M3/webapps/ROOT/WEB-INF/web.xml`), solo hace falta ejecutar Jetty, que ya contiene Pubby como aplicacion web. Ir a `jetty-distribution-9.0.0.M3/` y ejecutar para que escuche en el puerto 8080:
 
 `java -jar start.jar jetty.port=8080`
 
 ## Resultado
 
-Si abrimos en un navegador http://localhost:8080/consulado_suiza, Pubby nos redirecciona a http://localhost:8080/page/consulado_suiza, y aparecera una página web (bastante fea :P) con el dataset. Hay enlaces internos (hasPostalCode, type) y externos (located_in). Es importante darse cuenta de que el enlace externo con a través de located_in apunta a la URI que identifica a la entidad Bilbao en la DBPedia (http://es.dbpedia.org/resource/Bilbao), no a su representacion en HTML (http://es.dbpedia.org/page/Bilbao), a la que nos llevará el Pubby de DBpedia.  
+Si abrimos en un navegador [http://localhost:8080/consulado_suiza], Pubby nos redirecciona a [http://localhost:8080/page/consulado_suiza] y aparecerá una página web (bastante fea :P) con el dataset. Hay enlaces internos (hasPostalCode, type) y externos (located_in). Es importante darse cuenta de que el enlace externo a través de located_in apunta a la URI que identifica a la entidad Bilbao en la DBPedia (http://es.dbpedia.org/resource/Bilbao), no a su representacion en HTML (http://es.dbpedia.org/page/Bilbao), a la que nos llevará el Pubby de DBpedia.  
 
 ![Consulado Suiza](consulado_suiza_ld.png "Consulado Suiza")
 
-Podemos comprobar la negociacion de contenido en una terminal (http://richard.cyganiak.de/blog/2007/02/debugging-semantic-web-sites-with-curl/). Para empezar simulamos ser una navegador web, es decir necesitamos HTML para consumo humano: 
+Podemos comprobar la negociacion de contenido en una terminal  con CURL (http://richard.cyganiak.de/blog/2007/02/debugging-semantic-web-sites-with-curl/). Para empezar simulamos ser una navegador web, es decir necesitamos HTML para consumo humano: 
 
 `curl http://localhost:8080/consulado_suiza`
 
@@ -96,30 +96,31 @@ El código HTTP 303 nos redirecciona a http://localhost:8080/data/consulado_suiz
 
 Nos devuelve los datos en RDF. 
 
-## Conclusiones
+Conclusiones y advertencias
+---------------------------
 
-Nos pueden enlazar
+En este proceso hemos completado todo el ciclo de publicación Linked Data: partimos de un dataset que subimos a un servidor y el servidor provee a los usuarios el interfaz HTML o los datos en RDF. Mediante este proceso podemos apreciar algunas de las ventajas de Linked Data:
 
-Lo bonito de Linked Data es que como este dataset usa vocabularios ya conocidos como vCard, el agente podra procesar la informacion con facilidad, ya que ya sabe de antemano el significado de, por ejemplo, has_postal_code
+* Podemos crear enlaces a datos externos (ej. located_in) y asi integrar información a través de la infraestructura web ya existente. Este proceso es mucho más sencillo y eficiente que, por ejemplo, integrar la base de datos de consulados de Euskadi con la base de datos de la wikipedia a mano. También pueden enlazar a nuestro dataset, usando la URI [http://localhost:8080/consulado_suiza]; repito, no confundir con [http://localhost:8080/page/consulado_suiza]! 
 
-## A tener en cuenta
+* Como este dataset usa vocabularios (ontologías) ya conocidos como vCard, el agente automático podra procesar la informacion con facilidad, ya que ya sabe de antemano el significado de, por ejemplo, has_postal_code. Es decir, la semántica de la información es computacionalmente explícita, representada en un lenguaje estándar (OWL), de modo que la lógica interna del programa se aligera, desplazándose a la ontología (en este caso vCard).
 
-La configuracion de pubby es muy muy cogida con palillos, me interesaba mas tenerlo funcionando
+Hay que tener en cuenta que todo esto está "construido con palillos", no he tenido en cuenta ni la eficiencia ni la seguridad, ya que el objetivo era tenerlo funcionando (De hecho, el archivo de configuración de Pubby deja mucho que desear). Para implementar esto en producción habría que cambiar el archivo de configuración de Pubby en muchos puntos, siendo los más importantes el SPARQL endpoint y el mapeo de URIs externas a URIs del dataset (de [http://localhost:8080/consulado_suiza] que pide el agente a [http://www.irekia.euskadi.net/entities#consulado_suiza] que esta en el dataset), usar un triple store como Virtuoso o Stardog, un servidor web como Tomcat, etc.
 
-Qué hay que cambiar: confgi pubby, en realidad cualquier SPARQL end point
+Agradecimientos
+---------------
 
-No he tenido en cuenta ni la seguridad, ni la eficiencia!
-
-## Agradecimientos
-
-Desgraciadamente no tengo los nombres de todo nuestro equipo. Si estabas en él y tu nombre no aparece aquí, hazmelo saber o mejor todavía, haz un pull request:
+Desgraciadamente no tengo los nombres de todo nuestro equipo. Si estabas en él y tu nombre no aparece aquí, hazmelo saber o mejor todavía, haz un fork y un pull request:
 
 * Gorka Arkotxa 
+* ???
+* ???
 * Urtza Iturraspe
+* ???
 * Iñaki Arrieta
 * ???
 * ???
-* ???
+
 
 
 
