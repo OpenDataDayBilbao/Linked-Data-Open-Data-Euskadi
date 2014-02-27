@@ -113,13 +113,12 @@ Agradecimientos
 Desgraciadamente no tengo los nombres de todo nuestro equipo. Si estabas en él y tu nombre no aparece aquí, hazmelo saber o mejor todavía, haz un fork y un pull request:
 
 * Gorka Arkotxa 
-* ???
+* Jon Alfaro
 * ???
 * Urtza Iturraspe
 * ???
 * Iñaki Arrieta
-* ???
-* ???
+* Iñigo Robredo
 
 
 
