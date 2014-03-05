@@ -114,7 +114,7 @@ Desgraciadamente no tengo los nombres de todo nuestro equipo. Si estabas en él 
 
 * Gorka Arkotxa 
 * Jon Alfaro
-* ???
+* Izaskun Mendia
 * Urtza Iturraspe
 * ???
 * Iñaki Arrieta
