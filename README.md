@@ -116,7 +116,7 @@ Desgraciadamente no tengo los nombres de todo nuestro equipo. Si estabas en él 
 * Jon Alfaro
 * ???
 * Urtza Iturraspe
-* ???
+* Izaskun Mendia Telleria
 * Iñaki Arrieta
 * Iñigo Robredo
 
